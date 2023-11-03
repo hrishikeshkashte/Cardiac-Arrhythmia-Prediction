@@ -1,4 +1,4 @@
-# Cardiac Arrythmia ML
+# Cardiac Arrythmia Prediction
 
 ### Install
 
